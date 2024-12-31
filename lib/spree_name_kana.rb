@@ -1,0 +1,5 @@
+require 'spree_core'
+require 'spree_extension'
+require 'spree_name_kana/engine'
+require 'spree_name_kana/version'
+require 'spree_name_kana/configuration'
