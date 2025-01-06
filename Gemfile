@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'spree', '~> 4.10'
+gem 'spree', '>= 3.6.0', '< 5.0'
+gem 'deface'
 
 gemspec
